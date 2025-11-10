@@ -39,7 +39,7 @@
 
 Install dependencies:
 ```bash
-pip install requests 
+pip install requests tkinter
 ```
 
 ```markdown
@@ -53,7 +53,7 @@ pip install requests
 
 2. **Run the tool**  
    ```bash
-   python main.py
+   python discordwebhooktool.py
    ```
 
 3. **Add your webhook URL(s)**  
